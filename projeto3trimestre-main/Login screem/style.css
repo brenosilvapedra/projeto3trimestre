@@ -1,0 +1,21 @@
+body {
+    
+    background-color: rgb(212, 238, 238);
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+.Login {
+    width: 345px;
+    right: auto;
+    margin: 0px auto;
+    position: relative;
+}
+
